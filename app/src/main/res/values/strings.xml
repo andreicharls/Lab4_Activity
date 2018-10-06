@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4_Activity</string>
+
+    <string name="trip_advisor">Trip Advisor</string>
+
+    <string name="distance_from_ust">Distance from UST</string>
+    <string name="location">Location</string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    <string name="todo">TODO</string>
+</resources>
